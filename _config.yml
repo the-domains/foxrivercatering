@@ -1,0 +1,28 @@
+name: foxrivercatering
+favicon: null
+layout_spectrum: 0.9520666422322392
+typography_spectrum: 0.8040835214778781
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7729181731119752
+  lightness: 0.6702858256176114
+  saturation: 0.23170838435180485
+  rhythmicContrast: 0.8203592547215521
+purpose: []
